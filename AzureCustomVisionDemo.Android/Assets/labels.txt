@@ -1,3 +1,3 @@
-Picasso
-Pollock
-Rembrandt
+Apple
+Banana
+Orange
